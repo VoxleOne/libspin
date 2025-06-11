@@ -1,2 +1,2 @@
 # libspin
-A CPP Quaternion-based 3D Iterator
+A C++ Quaternion-based 3D Iterator
